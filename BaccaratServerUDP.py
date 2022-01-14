@@ -1,3 +1,5 @@
+# Nuttaphong Pisuttirattnaphan 6210406548
+
 from socket import *
 import random
 import time
